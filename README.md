@@ -1,6 +1,6 @@
-<h1 align="center">👨‍💻 Développeur Full Stack | DevOps | ML Enthusiast</h1>
+<h1 align="center">👨‍💻 Full Stack Developer | DevOps | ML Enthusiast</h1>
 
-[![wakatime](https://wakatime.com/badge/user/2f786ee1-3d5c-4264-941c-a7428ae32771.svg)](https://wakatime.com/@2f786ee1-3d5c-4264-941c-a7428ae32771)
+<a href="https://wakatime.com/@2f786ee1-3d5c-4264-941c-a7428ae32771"><img src="https://wakatime.com/badge/user/2f786ee1-3d5c-4264-941c-a7428ae32771.svg" alt="Total time coded since Oct 29 2024" /></a>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 À propos de moi
+### 🚀 About Me
 
-Développeur polyvalent passionné par la création de solutions innovantes. Je combine expertise backend, frontend et DevOps pour construire des applications robustes et évolutives. Mes intérêts se concentrent autour du Machine Learning et de l'intégration de solutions d'IA pour résoudre des problèmes complexes. Toujours à la recherche de défis, je suis prêt à explorer de nouvelles technologies et à apporter des contributions significatives.
+A versatile developer passionate about creating innovative solutions. I combine backend, frontend, and DevOps expertise to build robust, scalable applications. My interests focus on Machine Learning and integrating AI solutions to tackle complex challenges. Always on the lookout for new technologies and ready to make meaningful contributions.
 
-### 🔥 Ce que j'apporte
+### 🔥 What I Bring
 
-- 🔹 **Code propre et optimisé** pour des applications performantes
-- 🔹 **Approche orientée client** : je veille à comprendre les besoins spécifiques avant de coder
-- 🔹 **Amélioration continue** : j’explore toujours de nouvelles technologies pour rester à jour
+- 🔹 **Clean and optimized code** for high-performance applications
+- 🔹 **Client-oriented approach**: ensuring specific needs are met before coding
+- 🔹 **Continuous improvement**: exploring new technologies to stay up-to-date
 
-### 🏗️ Projets récents
+### 🏗️ Recent Projects
 
-- **SymptoScribe AI** : assistant basé sur le Machine Learning pour le secteur de la santé, aidant les médecins dans la description rapide de symptômes. Développé en Python et utilisant des API pour l'analyse sémantique.
-- **Application de gestion de cartes NFC pour le transport public** : un projet de gestion de transport en commun via des cartes NFC pour effectuer et suivre les transactions.
-- **Explorations en DevOps** : travail sur la CI/CD avec GitHub Actions et Docker pour une meilleure gestion de mes projets.
+- **SymptoScribe AI**: a machine learning-based assistant for the healthcare sector, helping doctors quickly document symptoms. Developed in Python and leveraging APIs for semantic analysis.
+- **NFC Card Management Application for Public Transport**: a project for managing public transport through NFC cards to perform and track transactions.
+- **DevOps Explorations**: working on CI/CD with GitHub Actions and Docker for better project management.
 
 ### 💻 Tech Stack
 
@@ -40,33 +40,33 @@ Développeur polyvalent passionné par la création de solutions innovantes. Je 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Stats GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ### 🎮 Game Development
 
-Passionné par le développement de jeux vidéo, j'explore les technologies modernes pour créer des expériences interactives uniques. En parallèle, je travaille à intégrer l'IA dans les jeux pour rendre l'expérience utilisateur plus immersive.
+Passionate about game development, I explore modern technologies to create unique interactive experiences. In parallel, I work on integrating AI into games for a more immersive user experience.
 
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/VOTRE_PROFIL">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:VOTRE_EMAIL">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/VOTRE_TWITTER">
+  <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
